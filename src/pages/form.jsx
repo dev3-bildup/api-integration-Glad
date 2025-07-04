@@ -105,7 +105,7 @@ const Form = () => {
           </button>
         ) : (
           <button
-            className="bg-blue-600 text-white px-6 mt-4 py-3 rounded hover:bg-blue-700 transition"
+            className="bg-indigo-600 text-white px-6 mt-4 py-3 rounded hover:bg-blue-700 transition"
             onClick={handleCreate}
           >
             Create
